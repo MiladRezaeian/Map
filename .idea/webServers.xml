@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="445b7256-d2ac-47a0-b1d3-a5f30f72c689" name="madno - Map" url="http://91.134.127.155">
+        <fileTransfer rootFolder="/domains/madno.ir/public_html/dev" host="91.134.127.155" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
